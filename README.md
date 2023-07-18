@@ -12,7 +12,11 @@
 
 使用 
 apt install golang
+
 export GOOS=linux
+
 export GOARCH=amd64
+
 go build -o test ./
+
 ./test -task 128	-p 80,443 
