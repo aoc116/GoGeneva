@@ -5,7 +5,7 @@
 "[TCP:flags:PA]-tamper{TCP:window:replace:0}-|"
 "[TCP:flags:FA]-tamper{TCP:window:replace:0}-|"
 ```
-- 具体用法：https://www.444.run
+
 增加了两个参数 
 
 -t 超时参数 默认为150
